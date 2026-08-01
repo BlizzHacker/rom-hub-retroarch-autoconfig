@@ -1,5 +1,7 @@
 # RetroArch controller profiles plugin for ROM Hub
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Implements the RPP v1 `assets` capability: RetroArch controller
 autoconfiguration profiles, so a gamepad your emulator does not recognise gets
 the button mapping somebody already worked out.
