@@ -1,5 +1,8 @@
 # RetroArch controller profiles plugin for ROM Hub
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
+Oklahoma non-profit corporation with 501(c)(3) status pending.
+
 Implements the RPP v1 `assets` capability: RetroArch controller
 autoconfiguration profiles, so a gamepad your emulator does not recognise gets
 the button mapping somebody already worked out.
